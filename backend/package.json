@@ -11,7 +11,7 @@
     "Tasks"
   ],
   "author": "Mwenda",
-  "license": "ISC",
+  "license": "MIT",
   "description": "The backend part of simple task manager with user authentication",
   "dependencies": {
     "bcrypt": "^5.0.1",
